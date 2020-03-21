@@ -10,7 +10,7 @@ hours: Daily 12pm - 9pm
 name: bird & rye
 neighborhood: ''
 notes: ''
-restaurant_phone: (541) 482-7437
+restaurant_phone: 541-482-7437
 social: ''
 takeout: true
 website: https://www.birdandrye.com
