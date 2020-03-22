@@ -1,12 +1,12 @@
 ---
 active: true
-address: 535 Stevens St.
+address: 535 Stevens St
 cuisine: Thai
 curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: Monday-Saturday 11AM-8PM (Closed Sunday)
+hours: Mon-Sat 11am-8pm
 name: Thai Bistro
 neighborhood: ''
 notes: ''
