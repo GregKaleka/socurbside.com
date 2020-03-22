@@ -1,3 +1,5 @@
+![Publish](https://github.com/GregKaleka/socurbside.com/workflows/Publish/badge.svg)
+
 <h1 align="center">Welcome to lfk.im 👋</h1>
 <p>
   <a href="#" target="_blank">
