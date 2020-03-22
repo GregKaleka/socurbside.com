@@ -1,6 +1,6 @@
 ---
 active: true
-address: 535 Stevens St
+address: 535 Stevens St.
 cuisine: Thai
 curbside: false
 curbside_instructions: ''

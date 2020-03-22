@@ -1,7 +1,7 @@
 ---
 active: true
-address: 281 Fourth St
-cuisine: Cafe
+address: 281 Fourth St.
+cuisine: Coffee
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -10,7 +10,7 @@ hours: Daily 7am - 4pm
 name: Noble Coffee Roasting
 neighborhood: ''
 notes: ''
-restaurant_phone: 541.488.3288
+restaurant_phone: 541-488-3288
 social: ''
 takeout: true
 website: https://noblecoffeeroasting.com
