@@ -1,12 +1,12 @@
 ---
 active: true
-address: 23 S 2nd St.
+address: 23 S 2nd St
 cuisine: American
 curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Daily 12pm - 9pm
+hours: Daily 12pm-9pm
 name: bird & rye
 neighborhood: ''
 notes: ''

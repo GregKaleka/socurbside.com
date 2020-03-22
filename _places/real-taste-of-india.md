@@ -6,7 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Daily 11am - 10pm
+hours: Daily 11am-10pm
 name: Real Taste of India
 neighborhood: ''
 notes: ''

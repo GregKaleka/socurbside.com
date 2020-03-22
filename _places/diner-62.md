@@ -1,12 +1,12 @@
 ---
-active: false
+active: true
 address: 6781 Crater Lake Hwy
 cuisine: Diner
 curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: ''
+hours: Mon-Satur 6am-3pm; Sun 7am-3pm
 name: Diner 62
 neighborhood: ''
 notes: ''

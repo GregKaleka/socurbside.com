@@ -1,12 +1,12 @@
 ---
 active: true
-address: 123 W Main St.
+address: 123 W Main St
 cuisine: American
 curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Monday - Friday 11am - 3pm
+hours: Mon-Fri 11am-3pm
 name: Downtown Market Co
 neighborhood: ''
 notes: ''
