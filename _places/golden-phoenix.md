@@ -6,7 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: Monday-Thursday 11am-9pm; Friday 11am-10pm; Saturday 12-9pm; Sunday 4-9pm
+hours: Mon-Thurs 11am-9pm; Fri 11am-10pm; Sat 12-9pm; Sun 4-9pm
 name: Golden Phoenix
 neighborhood: ''
 notes: ''

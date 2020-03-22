@@ -1,12 +1,12 @@
 ---
 active: true
-address: 315 E 5th St.
+address: 315 E 5th St
 cuisine: Brewery/Pub
 curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Daily 11am - 9pm
+hours: Daily 11am-9pm
 name: Common Block Brewing
 neighborhood: ''
 notes: ''

@@ -1,12 +1,12 @@
 ---
 active: true
-address: 281 Fourth St.
+address: 281 Fourth St
 cuisine: Coffee
 curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Daily 7am - 4pm
+hours: Daily 7am-4pm
 name: Noble Coffee Roasting
 neighborhood: ''
 notes: ''
