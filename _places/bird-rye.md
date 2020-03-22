@@ -1,6 +1,6 @@
 ---
 active: true
-address: 23 S 2nd Street
+address: 23 S 2nd St.
 cuisine: American
 curbside: false
 curbside_instructions: ''
