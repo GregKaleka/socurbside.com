@@ -1,6 +1,6 @@
 ---
 active: true
-address: 315 E 5th St
+address: 315 E 5th St.
 cuisine: Brewery/Pub
 curbside: true
 curbside_instructions: ''
