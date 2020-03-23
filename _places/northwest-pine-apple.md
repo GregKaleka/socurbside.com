@@ -6,7 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: Mon-Fri 7:30am-2:30pm
+hours: Mon-Fri 7:30am-2:30pm; Sat 10am-130pm
 name: Northwest Pine Apple
 neighborhood: ''
 notes: ''
