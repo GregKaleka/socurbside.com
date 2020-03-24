@@ -8,7 +8,7 @@ curbside_instructions: We are currently offering curbside pick-up or home delive
   pick-up is not for you! If you are unable or reluctant to leave your house at this
   time that’s ok too! Your best bet is to call us at 541-488-0029 and have your book
   delivered to your house or mailed free of charge.
-delivery: false
+delivery: true
 delivery_service_websites: ''
 hours: Mon-Sat 9am-5pm; Sun 10am-5pm
 name: Bloomsbury Books
