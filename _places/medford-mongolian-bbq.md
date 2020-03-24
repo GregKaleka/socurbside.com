@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Medford Mongolian BBQ
 neighborhood: ''
-notes: Open for take-out
+notes: '&ndash; Open for take-out'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://mongolianbbqmedford.com/
 ---
 
-Open for take-out
+&ndash; Open for take-out

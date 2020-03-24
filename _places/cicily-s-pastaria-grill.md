@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Cicily's Pastaria &Grill
 neighborhood: ''
-notes: Open for take-out
+notes: '&ndash;&nbsp;Open for take-out and DoorDash deliveries'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://cicilys.wordpress.com/
 ---
 
-Open for take-out
+&ndash;&nbsp;Open for take-out and DoorDash deliveries

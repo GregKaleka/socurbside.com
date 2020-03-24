@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Los Arcos Taqueria & Restaurant
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for to-go orders'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://zmenu.com/los-arcos-restaurant-medford-online-menu/
 ---
 
-Open for take-out
+- Open for to-go orders

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Vinny's Paisans Italian Bistro
 neighborhood: ''
-notes: Open for take-out
+notes: '&nbsp;-&nbsp;Open for take-out'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.paisanspizzeria.com/
 ---
 
-Open for take-out
+&nbsp;-&nbsp;Open for take-out

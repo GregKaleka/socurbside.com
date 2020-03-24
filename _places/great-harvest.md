@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Great Harvest
 neighborhood: ''
-notes: Open for take-out
+notes: '&ndash; Open for take-out and delivery'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: http://greatharvestmedford.com/
 ---
 
-Open for take-out
+&ndash; Open for take-out and delivery

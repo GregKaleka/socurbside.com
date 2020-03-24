@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Texas Roadhouse
 neighborhood: ''
-notes: Open for take-out
+notes: '&ndash; Open for curbside pickup'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.texasroadhouse.com/locations/oregon/medford
 ---
 
-Open for take-out
+&ndash; Open for curbside pickup

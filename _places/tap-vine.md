@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Tap & Vine
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for carry-out'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://tapandvine559.com/
 ---
 
-Open for take-out
+- Open for carry-out

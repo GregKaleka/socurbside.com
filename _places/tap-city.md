@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Tap City
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for growler pickup'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.tapcitybeverage.com/menu.html
 ---
 
-Open for take-out
+- Open for growler pickup

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Jackson Creek Pizza
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out or delivery to Medford and Jacksonville'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: http://jacksoncreekpizza.com/
 ---
 
-Open for take-out
+- Open for take-out or delivery to Medford and Jacksonville

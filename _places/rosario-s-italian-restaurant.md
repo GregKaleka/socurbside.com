@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Rosario's Italian Restaurant
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out or delivery'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: http://rosariositalianrestaurant.com/contact-us/
 ---
 
-Open for take-out
+- Open for take-out or delivery

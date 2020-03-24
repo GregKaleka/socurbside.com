@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Memo's Kitchen
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out or delivery through DoorDash or GrubHub'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://memoskitchen.net/our-menu/
 ---
 
-Open for take-out
+- Open for take-out or delivery through DoorDash or GrubHub

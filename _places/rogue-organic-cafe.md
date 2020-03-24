@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Rogue Organic Cafe
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out and delivery through DoorDash or GrubHub'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://rogueorganiccafe.com/
 ---
 
-Open for take-out
+- Open for take-out and delivery through DoorDash or GrubHub

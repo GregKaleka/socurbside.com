@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: R&D's Sandwich Factory
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.zmenu.com/r-and-ds-sandwich-factory-medford-2-online-menu/
 ---
 
-Open for take-out
+- Open for take-out

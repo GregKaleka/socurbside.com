@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Firehouse Subs
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for to-go orders'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.firehousesubs.com/locations/or/the-medford-center/
 ---
 
-Open for take-out
+- Open for to-go orders

@@ -4,16 +4,16 @@ address: ''
 cuisine: ''
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 hours: ''
 name: Taj Indian Cuisine
 neighborhood: ''
-notes: pan> - Take-out and delivery
+notes: Take-out and delivery
 restaurant_phone: ''
 social: ''
-takeout: false
+takeout: true
 website: https://www.taj-indiancuisine.com/
 ---
 
-pan> - Take-out and delivery
+Take-out and delivery

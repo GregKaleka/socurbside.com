@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Artisan Bakery Cafe
 neighborhood: ''
-notes: Open for take-out
+notes: '- Call for take-out orders and some deliveries'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.artisanbakery.biz/menu.html
 ---
 
-Open for take-out
+- Call for take-out orders and some deliveries

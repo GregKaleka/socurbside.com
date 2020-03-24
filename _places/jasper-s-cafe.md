@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Jasper's Cafe
 neighborhood: ''
-notes: Open for take-out
+notes: '&ndash; Open for take-out or delivery through DoorDash or GrubHub'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: http://www.jasperscafe.com/
 ---
 
-Open for take-out
+&ndash; Open for take-out or delivery through DoorDash or GrubHub

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Punky's Diner & Pies
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out or curbside pickup'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: http://www.punkysdinerandpies.com/
 ---
 
-Open for take-out
+- Open for take-out or curbside pickup

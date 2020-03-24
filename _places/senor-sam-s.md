@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Yumberry Bowl -
+name: Senor Sam's
 neighborhood: ''
-notes: Open for take-out
+notes: '- Open for take-out and delivery'
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.yumberrybowl.com/menu
+website: https://www.senorsams.com/menu/
 ---
 
-Open for take-out
+- Open for take-out and delivery
