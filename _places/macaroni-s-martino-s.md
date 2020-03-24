@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Macaroni's Martino's
 neighborhood: ''
-notes: Open for take-out
+notes: Open from 4:30-8:30 p.m. for take-out
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: http://www.martinosashland.com/
 ---
 
-Open for take-out
+Open from 4:30-8:30 p.m. for take-out

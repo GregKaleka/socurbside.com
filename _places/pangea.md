@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Pangea
 neighborhood: ''
 notes: Open for take-out
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://www.facebook.com/pangeaashland/
 ---
 
 Open for take-out

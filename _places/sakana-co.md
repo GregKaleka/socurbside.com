@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Sakana Co
 neighborhood: ''
-notes: Open for take-out
+notes: Open for curbside pickup and limited delivery from 5 to 8 p.m.
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://www.sakanaco.com/ashland
 ---
 
-Open for take-out
+Open for curbside pickup and limited delivery from 5 to 8 p.m.

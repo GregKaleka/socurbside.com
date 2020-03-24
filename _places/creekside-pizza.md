@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Creekside Pizza
 neighborhood: ''
-notes: Open for take-out
+notes: Open for pickup and deliveries from 11 a.m. to 10 p.m.
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: http://www.creeksidepizza.com/foodNav.html
 ---
 
-Open for take-out
+Open for pickup and deliveries from 11 a.m. to 10 p.m.

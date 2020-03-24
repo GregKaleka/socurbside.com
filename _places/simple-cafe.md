@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Simple Cafe
 neighborhood: ''
-notes: Open for take-out
+notes: Take-out from 9-5 p.m.
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://www.simple.cafe/
 ---
 
-Open for take-out
+Take-out from 9-5 p.m.

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: The Black Sheep
 neighborhood: ''
-notes: Open for take-out
+notes: Take-out with a "mitigation menu
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://theblacksheep.com/fayre/
 ---
 
-Open for take-out
+Take-out with a "mitigation menu

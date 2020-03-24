@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Thai Pepper
 neighborhood: ''
 notes: Open for take-out
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: http://thaipepperashland.com/
 ---
 
 Open for take-out

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Taj Indian Cuisine
 neighborhood: ''
-notes: Open for take-out
+notes: pan> - Take-out and delivery
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://www.taj-indiancuisine.com/
 ---
 
-Open for take-out
+pan> - Take-out and delivery

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Sesame Asian Kitchen
 neighborhood: ''
-notes: Open for take-out
+notes: Open for free delivery and carry-out
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://www.sesameasiankitchen.com/menus/
 ---
 
-Open for take-out
+Open for free delivery and carry-out

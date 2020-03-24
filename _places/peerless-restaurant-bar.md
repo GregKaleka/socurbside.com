@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Peerless Restaurant & Bar
 neighborhood: ''
-notes: Open for take-out
+notes: Open for take-out from 4-9 p.m.
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: http://peerlessrestaurant.com/
 ---
 
-Open for take-out
+Open for take-out from 4-9 p.m.

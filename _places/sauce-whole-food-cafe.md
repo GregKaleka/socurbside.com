@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: Sauce Whole Food Cafe
 neighborhood: ''
-notes: Open for take-out
+notes: Open for take-out and possible delivery
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: http://www.saucewholefoodcafe.com/
 ---
 
-Open for take-out
+Open for take-out and possible delivery

@@ -7,13 +7,13 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: El Paraiso
+name: 'Yumberry Bowl '
 neighborhood: ''
 notes: Open for take-out
 restaurant_phone: ''
 social: ''
 takeout: false
-website: https://www.mexicanfoodashland.com/
+website: https://www.yumberrybowl.com/
 ---
 
 Open for take-out
