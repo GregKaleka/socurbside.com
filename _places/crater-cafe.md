@@ -1,7 +1,7 @@
 ---
 active: false
-address: ''
-cuisine: ''
+address: 327 E Pine St
+cuisine: 'American/Cafe '
 curbside: true
 curbside_instructions: ''
 delivery: true
