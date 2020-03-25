@@ -1,19 +1,17 @@
 ---
-active: false
+active: true
 address: 21 Winburn Way
-cuisine: ''
+cuisine: Asian Fusion
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
-hours: ''
+hours: Daily 11:30am-9pm
 name: Sesame Asian Kitchen
 neighborhood: ''
-notes: Open for free delivery and carry-out
-restaurant_phone: ''
+notes: ''
+restaurant_phone: 541-482-0119
 social: ''
-takeout: false
+takeout: true
 website: https://www.sesameasiankitchen.com/menus/
 ---
-
-Open for free delivery and carry-out
