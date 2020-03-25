@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 21 Winburn Way
 cuisine: ''
 curbside: false
 curbside_instructions: ''
