@@ -1,19 +1,19 @@
 ---
 active: false
-address: ''
-cuisine: ''
+address: 302 E Main St
+cuisine: Pizza
 curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 hours: ''
-name: Hawaiian Hut
+name: The Grotto
 neighborhood: ''
 notes: '- Open for take-out and delivery'
-restaurant_phone: ''
+restaurant_phone: 541-535-3813
 social: ''
 takeout: true
-website: http://www.thehawaiianhut.com/
+website: http://www.grotto-pizzeria.com/
 ---
 
 - Open for take-out and delivery

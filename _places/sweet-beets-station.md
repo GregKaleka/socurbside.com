@@ -4,16 +4,16 @@ address: ''
 cuisine: ''
 curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 hours: ''
-name: Hawaiian Hut
+name: Sweet Beets Station
 neighborhood: ''
-notes: '- Open for take-out and delivery'
+notes: '- Open for take-out'
 restaurant_phone: ''
 social: ''
 takeout: true
-website: http://www.thehawaiianhut.com/
+website: https://www.facebook.com/sweetbeetstation/menu/
 ---
 
-- Open for take-out and delivery
+- Open for take-out
