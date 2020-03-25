@@ -1,7 +1,7 @@
 ---
 active: false
 address: ''
-cuisine: ''
+cuisine: Hawaiian
 curbside: false
 curbside_instructions: ''
 delivery: false

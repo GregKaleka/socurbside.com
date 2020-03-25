@@ -1,7 +1,7 @@
 ---
 active: false
 address: ''
-cuisine: ''
+cuisine: Mexican
 curbside: false
 curbside_instructions: ''
 delivery: false

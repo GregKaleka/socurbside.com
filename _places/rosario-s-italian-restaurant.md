@@ -1,7 +1,7 @@
 ---
 active: false
 address: ''
-cuisine: ''
+cuisine: Italian
 curbside: false
 curbside_instructions: ''
 delivery: false

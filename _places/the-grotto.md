@@ -1,12 +1,12 @@
 ---
-active: false
+active: true
 address: 302 E Main St
 cuisine: Pizza
 curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: ''
+hours: Daily 12pm-9pm
 name: The Grotto
 neighborhood: ''
 notes: '- Open for take-out and delivery'

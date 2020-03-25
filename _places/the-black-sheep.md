@@ -1,7 +1,7 @@
 ---
 active: false
 address: ''
-cuisine: ''
+cuisine: Pub
 curbside: false
 curbside_instructions: ''
 delivery: false
