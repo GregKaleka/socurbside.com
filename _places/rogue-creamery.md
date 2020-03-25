@@ -1,17 +1,17 @@
 ---
 active: false
-address: 43 N 3rd St
-cuisine: Thai
+address: ''
+cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: 'Mon - Fri lunch + dinner, Saturday dinner only '
-name: 'Thai Garden '
+hours: ''
+name: 'Rogue Creamery '
 neighborhood: ''
 notes: ''
-restaurant_phone: 541-727-7502
+restaurant_phone: ''
 social: ''
-takeout: true
+takeout: false
 website: ''
 ---
