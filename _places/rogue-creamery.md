@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: ''
 cuisine: Cheese
 curbside: true

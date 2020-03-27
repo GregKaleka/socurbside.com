@@ -1,7 +1,7 @@
 ---
-active: false
+active: true
 address: 254 N 3rd St
-cuisine: soup, GF
+cuisine: Soup, GF
 curbside: true
 curbside_instructions: ''
 delivery: true

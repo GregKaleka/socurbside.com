@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 327 E Pine St
 cuisine: 'American/Cafe '
 curbside: true
