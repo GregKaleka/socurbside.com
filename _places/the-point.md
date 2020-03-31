@@ -1,6 +1,6 @@
 ---
 active: false
-address: Lisa, what's with these? (chat in the top right corner)
+address: Lisa, what's the story with these?
 cuisine: 'American '
 curbside: false
 curbside_instructions: ''
